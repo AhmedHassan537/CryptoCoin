@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav-link:hover{
+    color: #16d5ff;
+}
+.bg-gray{
+    background-color: #f8f9fa;
+}
+.image-fluid{
+    height: auto;
+    max-width: 100%;
+}
+.spacing{
+    line-height: 30px;
+}
+.decoration{
+    text-decoration: none;
+}
+.margin-left{
+    margin-left: 400px;
+}
+.margin-top{
+    margin-top: 100px;
+}
