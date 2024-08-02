@@ -24,3 +24,25 @@
 .margin-top{
     margin-top: 100px;
 }
+.footer-items a{
+    text-decoration: none;
+    color: black;
+}
+.footer-items a :hover{
+    color: #16d5ff;
+    text-decoration: none;
+}
+.animation {
+    animation-name: example;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+
+  }
+  
+  @keyframes example {
+    0% {scale: 1;}
+    50% {scale: 1.1;}
+    100% {scale: 1;}
+  }
+  /* Sign In page */
+ 
